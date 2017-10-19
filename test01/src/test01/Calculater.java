@@ -20,5 +20,6 @@ public class Calculater {
 	}
 	
 	// 10-19일 
+	// 2번쨰 
 
 }
