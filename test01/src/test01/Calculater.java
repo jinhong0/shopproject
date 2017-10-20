@@ -1,7 +1,8 @@
 package test01;
 
-// 학원 컴퓨터 작업 1111
-// 초기 파일
+// 집에서 작업
+// �븰�썝 而댄벂�꽣 �옉�뾽 1111
+// 珥덇린 �뙆�씪
 public class Calculater {
 	
 	public int sum(int num1, int num2) {
@@ -20,7 +21,7 @@ public class Calculater {
 		return num1 / num2;
 	}
 	
-	// 10-19일 
-	// 2번쨰 
+	// 10-19�씪 
+	// 2踰덉�� 
 
 }
